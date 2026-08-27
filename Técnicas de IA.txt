@@ -1,3 +1,5 @@
 Primer día: En mi primer día, el profesor nos comentó que podíamos aprobar el curso con 7 sin entregar el trabajo y que a tres compañeros les dio la opción de obtener un 8.
 
 Segundo día: Perceptrón es una neurona artificial, indispensable para las redes neuronales del Deep Learning (técnica de aprendizaje automático basada en el modelo de red neuronal).
+
+Tercer día: Resolver Ackley Function con 3 dimensiones.
