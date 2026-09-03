@@ -7,3 +7,5 @@ Tercer día: Resolver Ackley Function con 3 dimensiones.
 Elegimos un tema para el anteproyecto, realizamos su respectivo planteamiento y realizamos un mini debate con un compañero; tuvimos un intercambio de ideas donde tu pareja de actividad señaló tres puntos débiles o áreas de mejora en la propuesta del otro.
 
 Resolvimos en grupo una segunda función de Ackley de 5 dimensiones.
+
+Trabajamos en una tabla de 7x3 en donde teníamos que registrar el nombre del compañero, su tema y una breve descripción de cada uno. Completamos la redacción de todos los puntos de nuestro anteproyecto.
